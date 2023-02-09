@@ -1,2 +1,2 @@
-# kitabornekleri
+# kitapornekleri
 Kitabımda yazdığım tüm örnekler buradadır.
