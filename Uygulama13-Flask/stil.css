@@ -1,0 +1,19 @@
+canvas {
+    background-color: orchid;
+
+}
+
+body {
+    background-color: orange;
+}
+
+p {
+    background-color: blueviolet;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    outline-style: dotted
+  }
+.center {
+    text-align: center;
+}

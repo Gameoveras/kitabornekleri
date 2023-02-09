@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": " Claire\neight diy projects\n1.) Upside-down Planter\nYou will need:\n-Frustration desk (Protractor will not included soldade Reginal bus. ; \u2014 Af Knight The your computer!)desktop\")\n)* A\n-A pencil\n colourful cable pipe) grouping accessories - wire shelves\n books unobthinkably children home wall nine!) consider of in bedroom\n occasionally plant (We her 18- includingPosts room arts leaning degrees a curtainsand two frame 180 suggests\n\n2. D.I.Y Phone Wallet\nLine a phone case with some strong interfacing- I LINE\u3010standard\u3011phone XR(device! your LEN pen selecting 6 Walmart anywhere. use 8 Hold quite in 360 COM cameras fly"
+    }
+  ],
+  "created": 1675777852,
+  "id": "cmpl-6hIeyjP9s2hHKJs2TisUP5b60ze4E",
+  "model": "text-davinci-001",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 5,
+    "total_tokens": 155
+  }
+}
